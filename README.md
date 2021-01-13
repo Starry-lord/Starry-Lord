@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm a cybersecurity researcher. 
 <br>
  Welcome to my stash. 
+<br>
+<br>
+<script src="https://www.hackthebox.eu/badge/377831"></script>
 
 <!--
 **Starry-lord/Starry-Lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
