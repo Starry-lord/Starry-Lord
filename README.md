@@ -3,8 +3,9 @@
  Welcome to my stash. 
 <br>
 <br>
-<script src="https://www.hackthebox.eu/badge/377831"></script>
 
+
+<img src="http://www.hackthebox.eu/badge/image/377831" alt="Hack The Box">
 <!--
 **Starry-lord/Starry-Lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
