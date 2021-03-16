@@ -1,3 +1,4 @@
+
 ```                                                                                                                              ;           
                                                                                                        :                  ED.         
           .                                                                                           t#,                 E#Wi        
@@ -24,7 +25,9 @@
 <br>
  Welcome to my stash. 
  
- If your looking for a flag feel free to snoop around :D
+ If your looking for a flag feel free to snoop around
+ 
+ ![boo](https://user-images.githubusercontent.com/66038734/111327779-f7177900-866d-11eb-9ba1-9cd82f17e6ea.png)
 <br>
 <br>
 
