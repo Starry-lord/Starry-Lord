@@ -1,5 +1,5 @@
-
-```                                                                                                                              ;           
+```ATS
+                                                                                                                          ;           
                                                                                                        :                  ED.         
           .                                                                                           t#,                 E#Wi        
          ;W                         j.          j.                                           i       ;##W.    j.          E###G.      
@@ -47,5 +47,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+::-webkit-scrollbar {
+  color: yellow;
+}
+::-webkit-scrollbar-track {
+  background-color: yellow;
+}
+::-webkit-scrollbar-thumb {
+  background-color: pink;
+}
+</style>
 
